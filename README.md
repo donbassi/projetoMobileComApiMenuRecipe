@@ -1,6 +1,6 @@
-# food_recipe
+# Food Recipe
 
-A new Flutter project.
+Projeto mobile utilizando API Menu Recipe
 
 ## Getting Started
 
